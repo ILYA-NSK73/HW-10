@@ -9,7 +9,7 @@ public class Main {
         checkDeviceYear(2015, 0);
         System.out.println();
         System.out.println("Task #3");
-        checkDeliveryDistance(95);
+        checkDeliveryDistance(98);
         System.out.println();
     }
 
