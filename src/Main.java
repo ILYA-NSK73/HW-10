@@ -40,7 +40,7 @@ public class Main {
             total += 2;
             System.out.println("Потребуется дней: " + total);
         } else {
-            System.out.println("Свыше 100 км доставки нет.");
+            System.out.println("Свыше 100 км доставки нет");
         }
     }
 }
